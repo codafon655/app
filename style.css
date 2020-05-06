@@ -328,7 +328,7 @@ font-weight:bold;
 
 
 /* PC用 */
-@media only screen and (min-width:960px){	
+@media only screen and (min-width:961px){	
 	#wrapper,.inner{
 	width:940px;
 	padding:0;
