@@ -2,6 +2,7 @@
 <html dir="ltr" lang="ja">
 <head>
 <meta charset="UTF-8">
+<meta http-equiv=”refresh” content=”0;URL=’https://codafon655.github.io/ColorCoronaV2'” />
 
 <meta http-equiv="Content-Language" content="ja">
 <meta name="google" content="notranslate">
@@ -37,7 +38,7 @@
 		<h1>新型コロナウイルス(Covid19)対策サイト</h1>
 		<!-- ロゴ -->
 		<div class="logo">
-			<a href="index.html">カラーコロナV2<br><span>コロナウイルスの感染者や死者数の推移を図示。</span></a>
+			<a href="https://codafon655.github.io/">カラーコロナV2<br><span>コロナウイルスの感染者や死者数の推移を図示。</span></a>
 		</div>
 		<!-- / ロゴ -->
     
@@ -46,10 +47,10 @@
   		<a class="menu" id="menu"><span>MENU</span></a>
 			<div class="panel">
 				<ul>
-					<li class="active"><a href="index.html">トップページ<br><span>Top</span></a></li>
-					<li><a href="subpage.html">このサイトと作者<br><span>What+Who</span></a></li>
-					<li><a href="index.html">展示品<br><span>Sample</span></a></li>
-					<li><a href="subpage3.html">会社情報<br><span>Company</span></a></li>
+					<li class="active"><a href="https://codafon655.github.io/">トップページ<br><span>Top</span></a></li>
+					<li><a href="https://codafon655.github.io/subpage.html">このサイトと作者<br><span>What+Who</span></a></li>
+					<li><a href="https://codafon655.github.io/">展示品<br><span>Sample</span></a></li>
+					<li><a href="https://codafon655.github.io/subpage3.html">会社情報<br><span>Company</span></a></li>
 					<li><a href="https://twitter.com/Codafon_655" target="_blank">お問い合わせ<br><span>Contact</span></a></li>
 				</ul>
       </div>
