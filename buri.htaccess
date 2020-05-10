@@ -1,1 +1,2 @@
-Redirect permanent /before/ https://codafon655.github.io/ColorCoronaV2
+RewriteEngine on
+RewriteRule ^ColorCoronaV2$ https://codafon655.github.io/ColorCoronaV2 [L,R=301]
