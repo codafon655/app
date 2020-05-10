@@ -40,10 +40,10 @@
   		<a class="menu" id="menu"><span>MENU</span></a>
 			<div class="panel">
 				<ul>
-					<li class="active"><a href="https://codafon655.github.io/">トップページ<br><span>Top</span></a></li>
-					<li><a href="https://codafon655.github.io/">このサイトと作者<br><span>What+Who</span></a></li>
-					<li><a href="https://codafon655.github.io/">展示品<br><span>Sample</span></a></li>
-					<li><a href="https://codafon655.github.io/">会社情報<br><span>Nanisore</span></a></li>
+					<li class="active"><a href="index.html">トップページ<br><span>Top</span></a></li>
+					<li><a href="subpage.html">このサイトと作者<br><span>What+Who</span></a></li>
+					<li><a href="index.html">展示品<br><span>Sample</span></a></li>
+					<li><a href="subpage3.html">会社情報<br><span>Nanisore</span></a></li>
 					<li><a href="https://twitter.com/Codafon_655" target="_blank">お問い合わせ<br><span>Contact</span></a></li>
 				</ul>
       </div>
